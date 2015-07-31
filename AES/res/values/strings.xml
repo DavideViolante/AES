@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AES</string>
+    <string name="action_settings">Settings</string>
+    <string name="plaintext">Plaintext (hex)</string>
+    <string name="key">Key (hex)</string>
+    <string name="ciphertext">Ciphertext (hex)</string>
+    
+    <string name="plaintext_input">Plaintext (hex)</string>
+    <string name="key_input">Key (hex)</string>
+    <string name="ciphertext_input">Ciphertext (hex)</string>
+    <string name="ciphertext_result">Ciphertext (hex)</string>
+    <string name="plaintext_result">Plaintext (hex)</string>
+    
+    <string name="plaintext_caps">Plaintext (hex)</string>
+    <string name="key_caps">Key (hex)</string>
+    <string name="ciphertext_caps">Ciphertext (hex)</string>
+    
+    <string name="button_encrypt">Encrypt</string>
+    <string name="button_decrypt">Decrypt</string>
+    <string name="encryption">Encryption</string>
+    <string name="decryption">Decryption</string>
+    <string name="ciphertext_title">Ciphertext</string>
+    <string name="deciphertext_title">Plaintext</string>
+
+</resources>
